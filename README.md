@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @14personne14
+- 👋 Hi, I’m @personne14
 - 👀 I’m interested in maths and computer science 
 - 🌱 I’m currently in MP2I in France 
 - ⌨️ I code in 
