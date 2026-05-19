@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @personne14
 - 💬 My Discord : personne14
-- 👀 I’m interested in maths and computer science
+- 👀 I’m interested in maths, physics and computer science
 - 🌱 Computer Science Student
-- ⌨️ I know `Python` `HTML` `CSS` `Javascript` `PHP` `NodeJS` `C` `Ocaml` `EJS` `C` `SQL`
+- ⌨️ I know `Python` `HTML` `CSS` `Javascript` `PHP` `NodeJS` `C` `C++` `Ocaml` `EJS` `C` `SQL` `Java`
